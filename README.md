@@ -20,11 +20,8 @@
   <a href="https://www.linkedin.com/in/diana-munoz-lar-a473aa18a/">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-blue" />
   </a>
-  <a href="mailto:dianamunozlaredo@gmail.com">
+  <a href="mailto:diana@pymut.ai">
     <img src="https://img.shields.io/badge/Email_Me-D14836?style=flat&logo=Gmail&logoColor=white" />
-  </a>
-  <a href="https://lu.ma/user/dianamunozlar">
-    <img src="https://img.shields.io/badge/lu.ma_profile-555" />
   </a>
 </div>
 
