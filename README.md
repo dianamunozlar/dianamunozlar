@@ -1,14 +1,14 @@
 <h1 align="center">👋 Hi, I’m Diana Munoz Lar</h1>
 
 <p align="center">
-  <strong>AI Product Leader</strong> · 0 → 1 → Scale
+  <strong>AI Product Leader</strong> · From 0 to 1 to Scale
   <p align="center">
     <img src="https://img.shields.io/badge/Gen_AI-8B31DB"/>
     <img src="https://img.shields.io/badge/AI-00DB9B"/>
     <img src="https://img.shields.io/badge/Agents-DC6700"/>
-    <img src="https://img.shields.io/badge/UX-00DBD4"/>
+      <img src="https://img.shields.io/badge/Product-DBD600"/>
+    <img src="https://img.shields.io/badge/UX/UI-00DBD4"/>
     <img src="https://img.shields.io/badge/Growth-006ADC"/>
-    <img src="https://img.shields.io/badge/Monetization-DBD600"/>
   </p>
 </p>
 
@@ -82,6 +82,7 @@
 | 🧪 Experimentation     | A/B testing, growth loops, KPI frameworks |
 | ✅ QA & Reliability    | Acceptance testing, regression cycles, user validation |
 | 📈 GTM & Monetization | PLG strategy, pricing models, onboarding & activation |
+
 
 
 ## 😄 Connect with Me
