@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I’m Diana Munoz Lar</h1>
 
 <p align="center">
-  <strong>AI Product Leader</strong> · 0 → 1 Execution
+  <strong>AI Product Leader</strong> · 0 → 1 → Scale
   <p align="center">
     <img src="https://img.shields.io/badge/Gen_AI-8B31DB"/>
     <img src="https://img.shields.io/badge/AI-00DB9B"/>
