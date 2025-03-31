@@ -28,7 +28,7 @@
 
 ## 💡 What I Do
 
-- Shape and lead **AI-native product strategy** from 0 → 1 → scale  
+- Shape and lead the **strategy and execution** of native AI products. 
 - Architect and build systems powered by **LLMs, GenAI, and intelligent agents**  
 - Craft seamless **AI UX** that earns trust and drives engagement  
 - Turn technical complexity into **clear, actionable product decisions**  
