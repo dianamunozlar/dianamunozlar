@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/Gen_AI-8B31DB"/>
     <img src="https://img.shields.io/badge/AI-00DB9B"/>
     <img src="https://img.shields.io/badge/Agents-DC6700"/>
-      <img src="https://img.shields.io/badge/Product-DBD600"/>
+      <img src="https://img.shields.io/badge/Product-0DB9B"/>
     <img src="https://img.shields.io/badge/UX/UI-00DBD4"/>
     <img src="https://img.shields.io/badge/Growth-006ADC"/>
   </p>
