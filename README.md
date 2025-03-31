@@ -1,7 +1,7 @@
 <h1 align="center">👩🏻‍💻 Hi, I’m Diana Munoz Lar</h1>
 
 <p align="center">
-  <strong>AI Product Leader</strong> · Strategy & Execution from 0 → 1 → Scale · GenAI · Agents · AI UX · Growth Systems  
+  <strong>AI Product Leader</strong> · Strategy & Execution from 0 → 1 → Scale
 </p>
 
 <p align="center">
