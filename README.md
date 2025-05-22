@@ -91,7 +91,7 @@
 I’m opening a few free **30-minute sessions** for bold founders and builders working with GenAI, agents, or intelligent systems — and ready to go from idea to impact.
 
 <div align="center">
-  <a href="https://calendly.com/diana-pymut/ai-product-feedback-call" target="_blank">
+  <a href="https://calendly.com/diana-pymut/30min" target="_blank">
     <img src="https://img.shields.io/badge/%20Schedule%20a%20Call-4af08c?style=flat-square&logo=googlemeet&logoColor=white&labelColor=4af08c" />
   </a>
 </div>
