@@ -85,15 +85,4 @@
 
 
 
-## 😄 Connect with Me
 
-**Bringing an AI-native product to life? Let’s make sure it’s built to win.**  
-I’m opening a few free **30-minute sessions** for bold founders and builders working with GenAI, agents, or intelligent systems — and ready to go from idea to impact.
-
-<div align="center">
-  <a href="https://calendly.com/diana-pymut/30min" target="_blank">
-    <img src="https://img.shields.io/badge/%20Schedule%20a%20Call-4af08c?style=flat-square&logo=googlemeet&logoColor=white&labelColor=4af08c" />
-  </a>
-</div>
-
-<p align="center"><em>Let’s build AI-native products that move fast, solve real problems, and leave a mark.
